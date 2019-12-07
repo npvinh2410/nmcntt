@@ -1,0 +1,16 @@
+role
+client
+admin
+permission
+page
+category
+post
+catalog
+product
+tax
+attribute
+menu
+sliders
+slides
+widget
+seo
